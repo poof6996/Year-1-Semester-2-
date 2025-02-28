@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Week 1_Intro to HTML"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Week 2_HTML & CSS"
+	}
+}

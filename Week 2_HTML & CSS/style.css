@@ -1,0 +1,33 @@
+Universal selector
+* {
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    margin: 0px;
+    padding: 0px;
+  }
+  /* p,
+  ol,
+  ul {
+    color: blue;
+  } */
+body{
+    background-color: #FCDDF2;
+}
+ul{
+    list-style: none;
+    padding: 0px;
+    margin:0px;
+}
+li a{
+    text-decoration: none;
+    padding: 20px;
+    margin: 20px;
+    float:left;
+}
+a:hover {
+    background-color: yellow;
+    font-size: 18px;
+  }
+  
